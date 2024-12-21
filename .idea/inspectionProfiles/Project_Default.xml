@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="pytest" />
+            <item index="1" class="java.lang.String" itemvalue="selenium" />
+            <item index="2" class="java.lang.String" itemvalue="autotests-sql" />
+            <item index="3" class="java.lang.String" itemvalue="ui" />
+            <item index="4" class="java.lang.String" itemvalue="autotests-ssh" />
+            <item index="5" class="java.lang.String" itemvalue="config" />
+            <item index="6" class="java.lang.String" itemvalue="autotests-api" />
+            <item index="7" class="java.lang.String" itemvalue="autotests-config" />
+            <item index="8" class="java.lang.String" itemvalue="ssh" />
+            <item index="9" class="java.lang.String" itemvalue="api" />
+            <item index="10" class="java.lang.String" itemvalue="sql" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="books_parsing_file.books" />
+          <option value="books_parsing_file.count_books" />
+          <option value="books_parsing_file.users" />
+          <option value="data.books_parsing_file.count_books" />
+          <option value="data.books_parsing_file.books" />
+          <option value="data.books_parsing_file.users" />
+          <option value="script.result" />
+          <option value="test.selenium" />
+          <option value="tests_for_opencard.selenium" />
+          <option value="conftest.options" />
+          <option value="autotests_rcm.db_commons.value" />
+          <option value="conftest.Driver" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
