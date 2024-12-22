@@ -26,5 +26,3 @@ def logger():
     handler.setFormatter(formatter)
     logger.addHandler(handler)
     yield logger
-
-
