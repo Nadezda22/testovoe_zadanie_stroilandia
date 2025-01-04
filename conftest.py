@@ -5,7 +5,7 @@ import pytest
 import logging
 import time
 import undetected_chromedriver as uc
-from wheel.metadata import yield_lines
+
 
 # ссылка приложения
 test_url = "https://stroylandiya.ru/"
