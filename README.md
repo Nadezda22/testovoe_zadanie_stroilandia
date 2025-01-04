@@ -16,4 +16,4 @@
 3. установить виртуальное окружение для проекта:
 -для OS Windows: "python -m venv venv", "venv\Scripts\activate.bat"
 -для OS для Linux/MacOS: "python -m venv venv", "source venv/bin/activate"
-4. Установить зависимости для тестов: "pip install -r requirements.txt -I --no-cache-dir "
+4. Установить зависимости для тестов: "pip install -r requirements.txt -I --no-cache-dir"
